@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["FJIpE-",(e,t)=>{"use strict";var a,l,i=e=>a("div",{className:l("ui_merchandising_pill","default"!==e.type&&e.type)},e.children);return[()=>{i.defaultProps={type:"default"},e("default",i)},[e=>a=e.createElement,e=>l=e.default]]},["cDcdfi","jSLlaY"]]);

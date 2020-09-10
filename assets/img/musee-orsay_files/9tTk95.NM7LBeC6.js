@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["9tTk95",(t,e)=>{"use strict";var i,r,a,n=t=>{var e=a(),n=t.attractionList.filter(t=>t.name&&t.url);return i(r,{name:(null==e?void 0:e.MAIN_H1)||"",description:(null==e?void 0:e.META_DESCRIPTION)||"",listItemData:n})};return[()=>{t("default",n)},[t=>i=t.createElement,t=>r=t.ListItemJsonLd,t=>a=t.default]]},["cDcdfi","nPqO2d","QZqymc"]]);

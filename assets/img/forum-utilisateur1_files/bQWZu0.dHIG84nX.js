@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["bQWZu0",(e,s)=>{"use strict";var a,i,l=()=>a("div",{className:"_1_AV5RWp"},a("p",{className:"vxjBu7ik"},i("social_readonly_message_main")," "),a("p",{className:"_U4tVNLg"},i("social_readonly_message_subtext")," "));return[()=>{e("FailoverMessage",l)},[e=>a=e.createElement,e=>i=e.localize]]},["cDcdfi","535agn"]]);

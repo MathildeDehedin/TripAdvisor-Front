@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["JV62dD",(e,a)=>{"use strict";var t,r,s=({children:e,variant:a,elementType:s="div"})=>t(s,{className:r("_2OtCD8-r",{"_2w-x7-ed":"primary"===a,_1xmi3gaq:"secondary"===a,_1JRjp4Vf:"accent"===a,uFjGvbTY:"geo"===a,_3G5kU4TC:"sponsored"===a})},e);return[()=>{e("default",s)},[e=>t=e.createElement,e=>r=e.default]]},["cDcdfi","jSLlaY"]]);

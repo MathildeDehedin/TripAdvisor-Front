@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["E5DN1h",(e,a)=>{"use strict";var t,s=e=>e.tagName?t("span",{className:"_21qUqkJx"},e.unescape?t("span",{dangerouslySetInnerHTML:{__html:e.tagName}}):e.tagName):null;return[()=>{s.defaultProps={tagName:void 0,unescape:!1},e("default",s)},[e=>t=e.createElement]]},["cDcdfi"]]);

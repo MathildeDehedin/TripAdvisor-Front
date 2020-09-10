@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["lQWUxH",(e,a)=>{"use strict";var d,t,i=({children:e,noPadding:a})=>d("div",{className:t("Dq9MAugU","T870kzTX",{LnVzGwUB:!a})},e);return[()=>{i.defaultProps={noPadding:!1},e("default",i)},[e=>d=e.createElement,e=>t=e.default]]},["cDcdfi","jSLlaY"]]);

@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["UhV2Xg",(s,e)=>{"use strict";var a,t,d,r=()=>a(t,{variant:"sponsored"},a("span",{className:"_3kPUWhQn"},a(d,{id:"mob_ads_sponsored"})));return[()=>{s("default",r)},[s=>a=s.createElement,s=>t=s.default,s=>d=s.default]]},["cDcdfi","JV62dD","0DsHEV"]]);

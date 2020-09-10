@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["cNT73m",(a,e)=>{"use strict";var s,t,l=a=>s("div",{className:"_2vLDDzpa"},s("span",{className:"_1KajK2dt"},s(t,{name:"map-pin-fill"})),s("span",{className:"_2eEG9zUM"},a.locationName),s("span",{className:"_39vNxneN",onClick:a.onClose},s(t,{name:"times"})));return[()=>{a("default",l)},[a=>s=a.createElement,a=>t=a.default]]},["cDcdfi","OMqGt0"]]);

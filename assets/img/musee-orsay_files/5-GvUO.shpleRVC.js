@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["5-GvUO",(e,r)=>{"use strict";return[()=>{},[r=>e({AdServer:r.A,AdServerProvider:r.a,GptAdServer:r.G,RubiconAdServer:r.R,TestAdServer:r.T,usePageTargeting:r.u,useTestAdMode:r.b})]]},["5-GvUO/P1kMz8"]]);
