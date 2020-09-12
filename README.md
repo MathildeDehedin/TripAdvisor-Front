@@ -1,1 +1,3 @@
-https://tripadvisor-paris-dehedin.netlify.app
+## Réplique Trip Advisor Paris
+
+https://paris-tripadvisor.netlify.app
