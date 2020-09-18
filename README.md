@@ -11,4 +11,4 @@ Replica TripAdvisor Paris
 
 [Netlify](https://paris-tripadvisor.netlify.app)
 
-  <img src="./src/assets/img/Trip.png" width="350" alt="Trip Advisor">
+  <img src="./src/assets/Trip.png" width="350" alt="Trip Advisor">
