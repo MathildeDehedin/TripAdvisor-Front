@@ -1,6 +1,6 @@
 # TripAdvisor
 
-Replica TripAdvisor Paris
+Replica TripAdvisor Londres
 
 ### _Languages_ & _Packages_
 
@@ -9,6 +9,6 @@ Replica TripAdvisor Paris
 
 ### _Deployment_
 
-[Netlify](https://paris-tripadvisor.netlify.app)
+[Netlify](londres-tripadvisor)
 
   <img src="./assets/Trip.png" width="350" alt="Trip Advisor">
